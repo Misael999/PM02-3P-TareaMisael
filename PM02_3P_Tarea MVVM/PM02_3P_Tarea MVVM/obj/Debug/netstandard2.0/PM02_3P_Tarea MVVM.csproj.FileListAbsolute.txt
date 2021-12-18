@@ -1,0 +1,17 @@
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\bin\Debug\netstandard2.0\PM02_3P_Tarea MVVM.deps.json
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\bin\Debug\netstandard2.0\PM02_3P_Tarea MVVM.dll
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\bin\Debug\netstandard2.0\ref\PM02_3P_Tarea MVVM.dll
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\bin\Debug\netstandard2.0\PM02_3P_Tarea MVVM.pdb
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\PM02_3P_Tarea MVVM.csproj.AssemblyReference.cache
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\PM02_3P_Tarea MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\PM02_3P_Tarea MVVM.AssemblyInfoInputs.cache
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\PM02_3P_Tarea MVVM.AssemblyInfo.cs
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\PM02_3P_Tarea MVVM.csproj.CoreCompileInputs.cache
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\PM02_3P_Tarea MVVM.dll
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\ref\PM02_3P_Tarea MVVM.dll
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\PM02_3P_Tarea MVVM.pdb
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\Views\ListaEmp.xaml.g.cs
+C:\Users\misae\source\repos\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\PM02_3P_Tarea MVVM\obj\Debug\netstandard2.0\Views\Modificar.xaml.g.cs
